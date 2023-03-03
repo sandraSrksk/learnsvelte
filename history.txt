@@ -1,0 +1,449 @@
+    1  cd kta22e/
+    2  cd sandra/
+    3  ls cool.md
+    4  mkdir learngit
+    5  cd learngit/
+    6  mkdir kta22e
+    7  cd kta22e
+    8  git init
+    9  code .
+   10  git status
+   11  git add readme.md
+   12  git status
+   13  git add --all
+   14  git status
+   15  git commit
+   16  git add --help
+   17  git branch -M main
+   18  git config --global user.name "Sandra Suurkask"
+   19  git config --global user.name
+   20  git config --global user.email "sarascono@gmail.com"
+   21  git commit
+   22  mkdir kta22e
+   23  cd kta22e
+   24  mkdir learngit
+   25  cd learngit
+   26  git status
+   27  code .
+   28  git branch -M main
+   29  mkdir kta22e
+   30  mkdir learngit
+   31  cd learngit
+   32  cd kta22e
+   33  git branch -M main
+   34  git config --global user.email
+   35  code .mkdir
+   36  git add .readme.md
+   37  git add. readme.md
+   38  git add . readme.md
+   39  git commit
+   40  git commit
+   41  code .
+   42  it commit "Hello"
+   43  git commit "Hello"
+   44  cd readme.md
+   45  cd readme.md
+   46  git commit -m "Add hello"
+   47  git commit add readme.md
+   48  git commit -m "Add <readme.md> Hello"
+   49  git add -m "Add readme.md"
+   50  cd readme.md
+   51  mkdir add readme.md
+   52  git commit -readme.md "Add Hello"
+   53  git commit readme.md "Add hello"
+   54  git commit readme.md
+   55  git commit readme.md
+   56  markdown
+   57  git commit
+   58  git add readme.md
+   59  git commit
+   60  f
+   61  git commit readme.md "add hello"
+   62  git config --global user.name
+   63  git confiq --global user.email
+   64  git config --global user.email
+   65  code .
+   66  git commit
+   67  git log
+   68  cd kta22e
+   69  cd learngit
+   70  git init
+   71  code .
+   72  git status
+   73  git add readme.md
+   74  git status
+   75  git commit 
+   76  git config --global core.editor "code --wait"
+   77  cd kta22e
+   78  cd learngit
+   79  git config --global core.editor "code --wait"
+   80  git commit
+   81  git commit
+   82  code .
+   83  git commit
+   84  git status
+   85  git commit -m "Add new lines to readme"
+   86  git status
+   87  code .
+   88  git log
+   89  git commit -m "Add Hello"
+   90  git add readme.md
+   91  add git redme.md
+   92  git add redme.md
+   93  git add readme.md
+   94  git status
+   95  git add readme.md
+   96  git add . readme.md
+   97  git add . readme.md 
+   98  git add readme.md
+   99  code .
+  100  git status
+  101  git log
+  102  git commit -m "Add new lines"
+  103  cd 7b7ebe9c
+  104  7b7ebe9c
+  105  git 7b7ebe9c
+  106  git log
+  107  git log
+  108  git status
+  109  code .
+  110  git log
+  111  git checkout 7b7ebe9c
+  112  git checkout main
+  113  code .
+  114  git log
+  115  git remote add origin https://github.com/sandraSrksk/learngit.git
+  116  git push -u origin main
+  117  cd ..
+  118  git clone https://github.com/sandraSrksk/learngit.git learngit2
+  119  code .
+  120  git log
+  121  git status
+  122  code .
+  123  cd ..
+  124  cd learngit
+  125  cd ..
+  126  cd kta22e
+  127  cd kta22e
+  128  cd learngit
+  129  git pull
+  130  git branch
+  131  git branch cool_branch
+  132  git branch cool_branch
+  133  git branch
+  134  git checkout cool_branch
+  135  git add .
+  136  git commit -m "Add hello4"
+  137  git init
+  138  git commit -m "Add hello4"
+  139  git init
+  140  add .
+  141  git add .
+  142  git commit -m "Add hello4"
+  143  git status
+  144  git add readme.md
+  145  git status
+  146  git commit -m "Add hello4"
+  147  git pull
+  148  git pull https://github.com/sandraSrksk/learngit.git learngit2
+  149  cd .. learngit2
+  150  cd ..
+  151  cd learngit
+  152  git pull
+  153  git pull
+  154  git branch -m main
+  155  git add .
+  156  git commit -m "Add hello4"
+  157  code.
+  158  code .
+  159  git log
+  160  git add .
+  161  git commit -m "Add hello4"
+  162  git log
+  163  git checkout main
+  164  git merge cool
+  165  git merge cool_branch
+  166  git log
+  167  git push
+  168  git checkout cool_branch
+  169  git push --set-upstream origin cool_branch
+  170  git add .
+  171  git commit -m "Add hello 5"
+  172  git checkout main
+  173  git add .
+  174  code .
+  175  git commit -m "Add goodbye"
+  176  git log
+  177  git merge cool_branch
+  178  git log
+  179  git push --set-upstream origin main
+  180  cg kta22e
+  181  cd kta22e
+  182  ls -la
+  183  bash_profile
+  184  pwd
+  185  code test.sh
+  186  sh test.sh
+  187  sh test.sh
+  188  sh test.sh
+  189  code test.sh
+  190  sh test.sh
+  191  code bash_profile
+  192  choco install starship~
+  193  choco install starship --version 1.12.0 -y
+  194  touch .bash_profile
+  195  open ~/.bash_profile
+  196  sh packages.config
+  197  cd kta22e
+  198  . bash_profile
+  199  code~/.bash_profile
+  200  code ~/.bash_profile
+  201  code ~/.bash_profile
+  202  code ~/.index.html
+  203  cd ..
+  204  cd kta22e
+  205  cd learngit
+  206  cd readme.md
+  207  code .
+  208  commit 7b7ebe9c
+  209  git log
+  210  git add .
+  211  code .
+  212  git log
+  213  git commit 5057eb56faed80202d20221bd2d13d264c10bd69
+  214  git commit 7b7ebe9c58ff0d62bb634e6d302699c93800f388
+  215  readme.md
+  216  git add readme.md
+  217  git commit -m "hello again"
+  218  git log
+  219  code .
+  220  git push --set-upstream origin cool_branch
+  221  git push -u origin main~
+  222  git push -u origin cool_branch~
+  223  git push -u origin cool_branch
+  224  git push --set-upstream origin cool_branch
+  225  git push -u origin main
+  226  cd kta22e
+  227  cd learngit
+  228  git branch cool_branch
+  229  git checkout cool_branch
+  230  readme.md
+  231  git readme.md
+  232  git add readme.com
+  233  git add readme.md
+  234  git commit -m "day3"
+  235  code .
+  236  git log
+  237  add .
+  238  git add .
+  239  git commit -m "Day3"
+  240  git log
+  241  code .
+  242  git log
+  243  git commit -m "day3"
+  244  git log
+  245  git checkout main
+  246  git merge cool_branch
+  247  git log
+  248  code.
+  249  code .
+  250  git log
+  251  git push -u origin cool_branch
+  252  git push --set-upstream origin cool_branch
+  253  git push -u origin main
+  254  git commit -m "day3"
+  255  git add readme.md
+  256  git commit -m "day3"
+  257  code .
+  258  git log
+  259  git push -u origin cool_branch
+  260  cd kta22e
+  261  cd learngit
+  262  git add readme.md
+  263  git branch
+  264  git branch second_branch
+  265  git checkout second_branch
+  266  git add readme.md
+  267  git commit -m "esmasp"
+  268  code .
+  269  git log
+  270  git branch
+  271  git add .
+  272  git commit -m "Esmasp"
+  273  git log
+  274  git add readme.md
+  275  git commit -m "Esmasp"
+  276  code .
+  277  git commit
+  278  git status
+  279  git add readme.md
+  280  git commit
+  281  code .
+  282  git add readme.md
+  283  git commit -m "Esmasp"
+  284  add another line to readme.md
+  285  git add another line to readme.md
+  286  git add a line to readme.md
+  287  code .
+  288  git add readme.md
+  289  git commit -m "Esmasp"
+  290  git log
+  291  git push -u origin second_branch
+  292  cd kta22e
+  293  cd learngit
+  294  git add readme.md
+  295  git commit -m "Teisip"
+  296  code .
+  297  git commit -m "Teisip"
+  298  git add readme.md
+  299  git commit -m "Teisip"
+  300  git log
+  301  [200~Sandra@MSI MINGW64 ~/kta22e/learngit (second_branch)
+  302  $ git push -u origin second_branch~
+  303  git push -u origin second_branch
+  304  cd kta22e
+  305  cd learngit 
+  306  code .
+  307  git add readme.md
+  308  git commit -m "Kolmap"
+  309  code .
+  310  git add readme.md
+  311  git commit -m "Kolmap"
+  312  git commit -m "Kolmap"
+  313  git add readme.md
+  314  git commit -m "Kolmap"
+  315  git log
+  316  git push -u origin second_branch
+  317  cd kta22e
+  318  cd learngit
+  319  code .
+  320  git add .
+  321  git add readme.md
+  322  git commit -m "Neljap"
+  323  code .
+  324  git log
+  325  git commit -m "Neljap"
+  326  git add readme.md
+  327  git commit -m "Neljap"
+  328  git log
+  329  git push -u origin second_branch
+  330  git add readme.md
+  331  git commit -m "Reede"
+  332  git commit readme.md
+  333  git add readme.md
+  334  git commit -m "Reede"
+  335  code .
+  336  code .
+  337  git add readme.md
+  338  git commit -m "Reede"
+  339  git log
+  340  git push -u origin second_branch
+  341  cd kta22e
+  342  cd learngit
+  343  git add readme.md
+  344  code .
+  345  git add readme.md
+  346  git commit -m "Laup"
+  347  git log
+  348  git push -u second_branch
+  349  git push -u origin second_branch
+  350  cd kta22e
+  351  cd learngit
+  352  git branch third_branch
+  353  git checkout third_branch
+  354  git add readme.md
+  355  code .
+  356  git commit -m "Uued read"
+  357  git add readme.md
+  358  git commit -m "uued read"
+  359  git log
+  360  git push -u origin third_branch
+  361  cd kta22e
+  362  cd learngit
+  363  git add newlines to readme.md
+  364  git add readme.md
+  365  git commit -m "uus rida"
+  366  code .
+  367  git add readme.md
+  368  git commit -m "uus rida"
+  369  git add readme.md
+  370  git commit -m "uus rida"
+  371  git log
+  372  git push -u origin third_branch
+  373  cd kta22e
+  374  cd learngit
+  375  add readme.md
+  376  git add readme.md
+  377  code .
+  378  git add readme.md
+  379  git commit -m "praegu"
+  380  git log
+  381  git push -u origin third_branch
+  382  cd kta22e
+  383  mkdir todo_app
+  384  cd todo_app
+  385  code .
+  386  git log
+  387  npm install
+  388  add package.json
+  389  code .
+  390  node -v
+  391  npm -v
+  392  cd kta22e
+  393  cd todo_app
+  394  npm init --yes
+  395  npm i eslint --save-dev --save-exact
+  396  code .
+  397  npm install express --save
+  398  code .
+  399  node app.js
+  400  cd kta22e
+  401  cd todo_app
+  402  code .
+  403  npm install ejs --save
+  404  git clone https://github.com/aphrodeosubarno/node-js-todo-app.git
+  405  npm install
+  406  npm run dev
+  407  yarn install
+  408  code .
+  409  add readme.md
+  410  git add readme.md
+  411  kta22e
+  412  cd kata22e
+  413  cd kta22e
+  414  cd learngit
+  415  git add readme.md
+  416  code .
+  417  git add readme.md
+  418  git commit -m "veel yks"
+  419  git log
+  420  git push -u origin third-branch
+  421  git push -u origin third_branch
+  422  cd kta22e
+  423  ls -la
+  424  ~/.bash_profile
+  425  code ~/.bash_profile
+  426  cd /c
+  427  code .bash_profile
+  428  source .bash_profile
+  429  cd kta22e
+  430  ls
+  431  npm create vite@latest
+  432  cd kta22e
+  433  npm create vite@latest learnsvelte -- --template svelte
+  434  cd learnsvelte/
+  435  npm i
+  436  code .
+  437  code .
+  438  npm run build
+  439  git init
+  440  git status
+  441  git add .
+  442  git commit -m "Import vite svelte template"
+  443  git add origin [200~GW64 ~/kta22e/learnsvelte (main)
+  444  git add origin https://github.com/sandraSrksk/learnsvelte.git
+  445  git remote add origin https://github.com/sandraSrksk/learnsvelte.git
+  446  git push -u origin main
+  447  code .bash_history
+  448  history
+  449  history > history.txt
